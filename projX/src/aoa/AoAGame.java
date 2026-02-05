@@ -6,6 +6,7 @@ import aoa.guessers.*;
 import java.io.FileNotFoundException;
 import java.util.*;
 
+
 public class AoAGame {
     private static final String DICTIONARY_FILE = "data/example.txt";
 
