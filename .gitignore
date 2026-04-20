@@ -54,10 +54,11 @@
 **/.idea/**/gradle.xml
 **/.idea/**/libraries
 
-# Project 2
+# Project 4
 proj4*/data/
 proj4*/*.zip
 proj4*/*.txt
+proj4*/**/*.csv
 
 # Library
 *.jar
